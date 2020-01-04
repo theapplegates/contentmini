@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://livinglife.netlify.com/sitemap.xml
+Host: https://livinglife.netlify.com
