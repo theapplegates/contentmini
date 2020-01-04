@@ -10,7 +10,7 @@ module.exports = {
         },
         title: "Living Life",
         description: "and writing some of my thoughts down",
-        siteUrl: 'https://livinglife.netlify.com', // no trailing slash
+        siteUrl: 'https://objective-jennings-0c6dfa.netlify.com', // no trailing slash
       }
     }
   ]
